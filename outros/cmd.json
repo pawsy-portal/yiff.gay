@@ -1,0 +1,98 @@
+[
+  {
+    "name": "</alterar emote:1461014618443878400>",
+    "d": "🥺 Alterar emoji que fica ao lado de seu username.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</discord figurinhas detalhes:1463403655762939988>",
+    "d": "🦈 Veja informações e imagem de uma figurinha do discord.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</discord figurinhas servidor:1463577314599375101>",
+    "d": "🦎 Visualize todas as figurinhas de um servidor do discord em um único lugar.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</kaiane comandos:1460996655728955560>",
+    "d": "📄 Veja a lista de comandos da Kaiane. (você está usando ele neste exato momento, rs).",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</kaiane conquista:1461164780697157766>",
+    "d": "💫 Veja em lista todas as conquistas obtidas.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</kaiane details:1461081792047222825>",
+    "d": "⭐ Veja detalhes e informações sobre mim, vulgo Kaiane!",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</kaiane reconto:1462190558033350700>",
+    "d": "🌷 Veja mais sobre a Kaiane, como reconto e esboços.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</display name style:1468050021671768157>",
+    "d": "🐐 Retorne detalhes sobre display name style no perfil do usuário.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</meme abre latas:1467102126537965622>",
+    "d": "🐧 Compare o usuário com um abridor de latas. Por puro entretenimento.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</meme mais gay:1465056627496587435>",
+    "d": "🦃 Faça uma \"competição\" entre usuários. Por puro entretenimento.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</usuário avatar:1461062907432271969>",
+    "d": "🧏 Veja o avatar atual do usuário.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</usuário banner:1461144692392591613>",
+    "d": "🌆 Retorne o banner de exibição do perfil do usuário.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</usuário decoração:1461101284466757707>",
+    "d": "🧣 Veja a decoração de avatar presente no usuário.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</usuário detalhes:1462231319495970869>",
+    "d": "🍉 Veja informações resumidas sobre um usuário ou aplicação do Discord.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</usuário nameplate:1462558439023837258>",
+    "d": "🦖 Veja a placa de identificação (nameplate) ativa do usuário.",
+    "tipo": 2,
+    "nsfw": false
+  },
+  {
+    "name": "</usuário tag:182737>",
+    "d": "🐇 Veja o nome, id e ícone da tag que o usuário estiver usando.",
+    "tipo": 2,
+    "nsfw": false
+  }
+]

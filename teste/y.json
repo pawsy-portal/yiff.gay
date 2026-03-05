@@ -1,0 +1,29 @@
+{
+  "name": "Pawsy",
+  "description": "Tema para deixar os botões mais agradáveis.",
+  "version": "1",
+  "authors": [
+    {
+      "name": "rapositosa",
+      "id": "1117890204569718885"
+    }
+  ],
+  "semanticColors": {
+    "BUTTON_DANGER_BACKGROUND": ["#ad6944"],
+    "BUTTON_POSITIVE_BACKGROUND": ["#f1c779"],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#ad6944"],
+    "REDESIGN_BUTTON_POSITIVE_BACKGROUND": ["#f1c779"],
+    "STATUS_DANGER": ["#ad6944"],
+    "STATUS_POSITIVE": ["#f1c779"]
+  },
+  "rawColors": {
+    "RED_400": "#ad6944",
+    "RED_430": "#ad6944",
+    "GREEN_360": "#f1c779",
+    "GREEN_430": "#f1c779",
+    "ORANGE_330": "#f1c779",
+    "YELLOW_300": "#f1c779",
+    "YELLOW_360": "#f1c779"
+  },
+  "spec": 2
+}

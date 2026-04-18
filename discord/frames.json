@@ -3,14 +3,11 @@
     "id": "1491907428344795276",
     "nome": "Orelhas de Gato",
     "topo": [
-      "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049614830243860/static",
-      "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049618680348722/static"
+"https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049614830243860/static", "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049618680348722/static",
+"https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049622774251550/static"
     ],
-    "meio": [
-      "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049622774251550/static"
-    ],
-    "baixo": [
-      "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049626540474450/static"
+    "meio": null,
+    "baixo": [ "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1494049626540474450/static"
     ]
   },
   {

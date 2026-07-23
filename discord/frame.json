@@ -1,3 +1,7 @@
 [
-{"id": ["1491907428344795276","1522380815538065549","1522381656684761098","1522378878083924051"], "nome": "Gatinho Miau Miau", ... }
+{"id": ["1491907428344795276","1522380815538065549","1522381656684761098","1522378878083924051"], "nome": "Gatinho Miau Miau", "cover": "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1522378688971411657/static", "still": "https://cdn.discordapp.com/media/v1/collectibles-shop/1491907428344795276/1522378692112809994/static" },
+{"id": [1511908350324113478,1517301132211388507,1517303399799062668], "nome": "Mariposa", "cover": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511908350324113478/1524824082325966848/static", "still": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511908350324113478/1524824076630364290/static" },
+{"id": [1491910305603911881,1511834130294247555,1511834131242287195,1515124557290410204], "nome": "Rosas sombrias", "cover": "https://cdn.discordapp.com/media/v1/collectibles-shop/1491910305603911881/1515086535480049714/static", "still": "https://cdn.discordapp.com/media/v1/collectibles-shop/1491910305603911881/1515086540794237099/static" },
+{"id": [1484726324580061191,1509183143905857589,1509183144786657413,1509183145751220377], "nome": "Cristais", "cover": "https://cdn.discordapp.com/media/v1/collectibles-shop/1484726324580061191/1514422970251083806/static", "still": null },
+{"id": [1491910929141727413,1511869969921609874,1511871218633146408], "nome": "Caos neon", "cover": "https://cdn.discordapp.com/media/v1/collectibles-shop/1491910929141727413/1514424115258200205/static", "still": "https://cdn.discordapp.com/media/v1/collectibles-shop/1491910929141727413/1514424118911566014/static"},
 ]

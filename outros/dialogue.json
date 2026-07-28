@@ -1,0 +1,14 @@
+{
+  "0": {
+    "btn": "Insira seu nome-",
+    "msg": "Oiê, eu me chamo Kaiane. E você, como posso te [chamar](E18423)?"
+  },
+  "1": {
+    "btn": "Claro, por que não.",
+    "msg": "Legal o seu nome. [$var[nome]](E18423), você gostaria de um tutorial?"
+  },
+  "2": {
+    "btn": "Confirmar.",
+    "msg": "Hm, tá bom!"
+  }
+}

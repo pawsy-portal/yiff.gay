@@ -1,14 +1,22 @@
 {
   "0": {
-    "btn": "Insira seu nome-",
-    "msg": "Oiê, eu me chamo Kaiane. E você, como posso te [chamar](E18423)?"
+    "btn": "Escrever seu nome-",
+    "msg": "Oiê, eu me chamo Kaiane. e você, como posso te [chamar](E18423)?",
+    "alt": "alguém chamado kaiane perguntando seu nome."
   },
   "1": {
-    "btn": "Claro, por que não.",
-    "msg": "Legal o seu nome. [$var[nome]](E18423), você gostaria de um tutorial?"
+    "btn": "Claro, por que não",
+    "msg": "Legal o seu nome. [$var[nome]](E18423), você gostaria de um tutorial?",
+    "alt": "kaiane gostou do seu nome, e perguntou sobre tutorial"
   },
   "2": {
-    "btn": "Confirmar.",
-    "msg": "Hm, tá bom!"
+    "btn": "Me ensina as cartas.",
+    "msg": "mmmm... Bem simples! Basta arranjar 🪙 moedas e trocar por [cartinhas](ACE451). Tome a sua primeira!",
+    "alt": "kaiane explica como conseguir cartinhas e lhe deu uma grátis."
+  },
+  "3": {
+    "btn": "Pegar meu pacote-",
+    "msg": "Uau, você conseguiu uma carta [$var[card-nome]]($var[card-raridade])!",
+    "alt": "você recebeu $var[card-nome]."
   }
 }
